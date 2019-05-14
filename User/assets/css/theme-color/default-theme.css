@@ -1,0 +1,69 @@
+
+/*=======================================
+Template Design By MarkUps.
+Author URI : http://www.markups.io/
+========================================*/
+.scrollToTop {
+  background-color: #c61707;
+  border: 2px solid #c61707;
+}
+
+.mu-read-more-btn:hover, .mu-read-more-btn:focus {
+  background-color: #c61707;
+  border-color: #c61707;
+}
+
+.mu-post-btn:hover, .mu-post-btn:focus {
+  background-color: #c61707;
+  border-color: #c61707;
+}
+
+#mu-header .mu-header-area .mu-header-top-right .mu-top-social-nav li a:hover, #mu-header .mu-header-area .mu-header-top-right .mu-top-social-nav li a:focus {
+  color: #c61707;
+}
+
+#mu-menu .navbar-header .navbar-brand i {
+  color: #c61707;
+}
+#mu-menu .navbar-default .navbar-nav li > a:hover, #mu-menu .navbar-default .navbar-nav li > a:focus {
+  border-color: #c61707;
+  color: #c61707;
+}
+#mu-menu .navbar-default .navbar-nav li .dropdown-menu {
+  border-top: 2px solid #c61707;
+}
+#mu-menu .navbar-default .navbar-nav li .dropdown-menu li a:hover, #mu-menu .navbar-default .navbar-nav li .dropdown-menu li a:focus {
+  background-color: #c61707;
+}
+#mu-menu .navbar-default .navbar-nav .open a:hover, #mu-menu .navbar-default .navbar-nav .open a:focus {
+  background-color: #c61707;
+}
+
+#mu-menu .navbar-default .navbar-nav > .active > a, #mu-menu .navbar-default .navbar-nav > .active > a:hover, #mu-menu .navbar-default .navbar-nav > .active > a:focus {
+  color: #c61707;
+  border-bottom: 2px solid #c61707;
+  background-color: transparent;
+}
+
+#mu-slider .mu-slider-single .mu-slider-content span {
+  background-color: #c61707;
+}
+#mu-slider .slick-prev,
+#mu-slider .slick-next {
+  background-color: #c61707;
+}
+
+#mu-footer .mu-footer-top .mu-footer-top-area .mu-footer-widget ul li a:hover, #mu-footer .mu-footer-top .mu-footer-top-area .mu-footer-widget ul li a:focus {
+  color: #c61707;
+}
+#mu-footer .mu-footer-top .mu-footer-top-area .mu-footer-widget .mu-subscribe-form input[type="email"]:focus {
+  border-color: #c61707;
+}
+#mu-footer .mu-footer-top .mu-footer-top-area .mu-footer-widget .mu-subscribe-form .mu-subscribe-btn {
+  background-color: #c61707;
+}
+
+/*=======================================
+Template Design By MarkUps.
+Author URI : http://www.markups.io/
+========================================*/
